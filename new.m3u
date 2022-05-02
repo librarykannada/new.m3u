@@ -1,1 +1,10 @@
-
+#EXTM3U
+#EXTINF:0 tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Colors_Kannada_Cinema.jpg/revision/latest?cb=20180915161418" group-title="Undefined",Colors Kannada HD
+http://new-pro.tv:8080/Fernando/123321/72084?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/TV9_Karnataka.jpg/revision/latest?cb=20190216160127" group-title="News",Tv9 Kannda
+https://www.youtube.com/watch?v=jdJoOhqCipA
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",News First Kannada
+https://www.youtube.com/watch?v=Ji_FzTzHAEA
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",Suvarna News Kannada
+https://www.youtube.com/watch?v=14MJLmMJVHE
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",Public News Kannada
